@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+Monica is an Edmonton based, LGTBQ+ non-equity actress, vocalist, artist, model, and educator. Often described as high energy and vivacious, she thrives in a rehearsal room and takes great pride in her work. She graduated at the top of the class in the inaugural year of the Acting and Musical Theatre Intensive program at the Visionary Centre for the Performing Arts, and has been working in the arts industry ever since. As the Director of Education at the Grindstone Theatre, Monica enjoys working with like-minded artists to create opportunities for emerging artists, and provide a safe space to educate those interested in the performing arts. 
+	Theatrical arts have always been a significant part of Monica’s life, and have played a key role in her development both as a performer and an individual. Her favorite part of working on a show is the ‘Eureka Moment’ that happens somewhere in the rehearsal process; that moment when something falls into place and a lesson is learned. Monica had the privilege of experiencing this in a recent project lead by Kevin Jesuino in which she made a personal discovery about human behaviour and psychological connection. This provided Monica with the confidence and expression to become a proud member of the LGBTQ+ community, and has greatly influenced her work as a performer. 
+	Monica has a special place in her heart for devised theatre, and thrives in a collaborative environment. She finds joy in sharing experiences, learning from others, and creating works that both challenge and inspire. 
 
-You can use the [editor on GitHub](https://github.com/MonicaGate01/monica-gate/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MonicaGate01/monica-gate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
